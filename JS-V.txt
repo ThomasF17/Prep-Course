@@ -1,0 +1,2 @@
+prototype: El prototipo es la referencia de donde es creado un objeto.
+Constructors (de clase): Es una funcion que nos va a permitir crear objetos.

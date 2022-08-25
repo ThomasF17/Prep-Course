@@ -1,0 +1,11 @@
+for: El for se usa para establecer una accion para cada opcion posible, por ejemplo
+     se podria usar para preguntar si hay papas, si la respuesta es "si" pasará algo, si
+     la repuesta es "no" pasará otra cosa.
+
+&&, ||, !: Estos elementos se usan para una condicion el && significa "... y..." 
+           Ej: si hay papas y cebolla que pase algo
+           El || significa "...o..."
+           Ej: si hay papas o hamburguesa que pase algo
+           El ! se usa para negar una condicion
+           Ej: 1 ! === 2
+               true (porque 1 es distinto de 2)

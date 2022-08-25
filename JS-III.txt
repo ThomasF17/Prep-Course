@@ -1,0 +1,1 @@
+Arrays: Un array es como un ajon donde vamos a guaradr muchas cosas sin un orden especifico.

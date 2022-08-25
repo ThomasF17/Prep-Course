@@ -1,0 +1,12 @@
+Variables: Una variables es un elemento en donde podemos guardar un algo, ya sea un numero, una palabra o una funcion.
+
+Strings: Un string es un texto que se escribe con comillas.
+
+Funciones (argumentos, "return"): Las funciones se utilizan para ordenar que hacer con una variable o con un valor.
+
+Declaraciones "if": El "if" se utiliza para verificar si dos o mas valores comparten una similitud.
+
+Valores booleanos ("true", "false"): Los valores booleanos son los resultados que obtenemos despues de 
+                                     un "if" y solo pueden ser 0 o 1, blanco o negro, hay solo 2 opciones.
+
+npm test JSI.test.js

@@ -1,0 +1,12 @@
+Objetos: Un objeto es algo a lo que le podemos asignar un valor o una propiedad.
+
+Propiedades: Una prpiedad es el valor que va a tener un objeto.
+
+Métodos: Son las funciones dentro de un objeto.
+
+Bucle for in: Funciona para mostrar los elementos un un array, incluyendo los que se agregaron luego.
+
+Notacion de puntos vs notacion de corchetes: La ventaja de la notacion de puntos es que es mucho
+                                             mas simple y facil que la notacion de corchetes. Pero 
+                                             en la notacion de puntos tiene que ser si o si literal,
+                                             no puede ser una variable, como en la notcion de corchetes 
